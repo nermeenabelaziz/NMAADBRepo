@@ -1,2 +1,2 @@
 # Databricks notebook source
-# MAGIC %sql
+# MAGIC %sql 
